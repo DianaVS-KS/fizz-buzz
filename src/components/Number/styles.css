@@ -1,16 +1,16 @@
-.fizz {
+h1 {
     width: 200px;
+}
+.fizz {
     background-color: red;
     color: white;
 }
 
 .buzz {
-    width: 200px;
     background-color: yellow;
 }
 
 .fizz-buzz {
-    width: 200px;
     background-color: green;
     color: white;
 }
